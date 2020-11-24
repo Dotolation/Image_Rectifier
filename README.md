@@ -18,3 +18,16 @@ Choose a image that you want to rectify.
 6. Done!
 
 ## Sample Images
+- ## Before  
+![Pre-Rect Campus Building](https://github.com/Dotolation/Image_Rectifier/blob/main/Examples_pre/drexel.jpg)  
+
+- ## After  
+![Rectified Campus Building](https://github.com/Dotolation/Image_Rectifier/blob/main/Examples_rectified/drexel.jpg)  
+- ## Before  
+![Pre-Rect Notebook](https://github.com/Dotolation/Image_Rectifier/blob/main/Examples_pre/notebook.jpeg)  
+- ## After  
+![Rectified Notebook](https://github.com/Dotolation/Image_Rectifier/blob/main/Examples_rectified/notebook.jpg)
+- ## Before  
+![Pre-Rect Pizza](https://github.com/Dotolation/Image_Rectifier/blob/main/Examples_pre/pizza.jpg)  
+- ## After  
+![Rectified Pizza](https://github.com/Dotolation/Image_Rectifier/blob/main/Examples_rectified/pizza.jpg)
