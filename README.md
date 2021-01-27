@@ -1,4 +1,4 @@
-# ![Note: Web Browser Demo is now available!](https://imgrect.herokuapp.com/)
+# [Note: Web Browser Demo is now available!](https://imgrect.herokuapp.com/)
 
 It still needs some more work (caching & better CSS), but it should run.
 Stack: Flask, HTML/CSS(Bootstrap)/JS
